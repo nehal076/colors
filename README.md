@@ -1,16 +1,10 @@
-# colors
+# Beautiful Colors
 
-A new Flutter project.
+An app for looking a randomly generated beautiful colors.
 
-## Getting Started
+## Video Capture
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+https://user-images.githubusercontent.com/32421196/217498635-8456c56e-1a2c-4b15-8147-145fb902d757.mp4
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
